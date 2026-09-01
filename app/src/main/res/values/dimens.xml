@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbar_height">60dp</dimen>
+    <dimen name="card_corner_radius">12dp</dimen>
+    <dimen name="stroke_width">1dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+    <dimen name="progress_indicator_height">3dp</dimen>
+    <dimen name="address_card_padding">20dp</dimen>
+    <dimen name="section_margin_top">20dp</dimen>
+    <dimen name="avatar_size">40dp</dimen>
+    <dimen name="icon_size_small">20dp</dimen>
+    <dimen name="icon_size_medium">24dp</dimen>
+    <dimen name="chip_padding_horizontal">10dp</dimen>
+    <dimen name="chip_padding_vertical">4dp</dimen>
+    <dimen name="toggle_group_height">44dp</dimen>
+</resources>

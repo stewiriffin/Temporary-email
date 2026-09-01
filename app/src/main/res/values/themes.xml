@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.TempBox" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">#00FF88</item>
+        <item name="colorOnPrimary">#080808</item>
+        <item name="colorPrimaryVariant">#00FF88</item>
+        <item name="colorSecondary">#00FF88</item>
+        <item name="colorOnSecondary">#080808</item>
+        <item name="colorSurface">#101010</item>
+        <item name="colorOnSurface">#FFFFFF</item>
+        <item name="colorSurfaceVariant">#101010</item>
+        <item name="colorOnSurfaceVariant">#80FFFFFF</item>
+        <item name="android:colorBackground">#080808</item>
+        <item name="android:windowBackground">#080808</item>
+        <item name="android:statusBarColor">#080808</item>
+        <item name="android:navigationBarColor">#080808</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="27">false</item>
+        <item name="android:fontFamily">@font/inter</item>
+        <item name="colorOutline">#2600FF88</item>
+        <item name="cardBackgroundColor">#101010</item>
+        <item name="android:windowAnimationStyle">@style/WindowAnimation.TempBox</item>
+        <item name="rippleColor">#3300FF88</item>
+    </style>
+
+    <style name="WindowAnimation.TempBox" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/slide_in_right</item>
+        <item name="android:activityOpenExitAnimation">@anim/slide_out_left</item>
+        <item name="android:activityCloseEnterAnimation">@anim/slide_in_left</item>
+        <item name="android:activityCloseExitAnimation">@anim/slide_out_right</item>
+    </style>
+</resources>

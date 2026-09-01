@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Envelope body — within the 18–90dp adaptive icon safe zone -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,38 Q24,36 26,36 L82,36 Q84,36 84,38 L84,70 Q84,72 82,72 L26,72 Q24,72 24,70 Z"/>
+    <!-- V-shaped flap -->
+    <path
+        android:fillColor="#D4BBFF"
+        android:pathData="M24,38 L54,59 L84,38 Z"/>
+</vector>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ══ Dark Mode Colors ══ -->
+    <color name="bg_primary">#0A0E13</color>
+    <color name="bg_surface">#111620</color>
+    <color name="bg_card">#161C28</color>
+    <color name="bg_elevated">#1C2333</color>
+    <color name="text_primary">#EAEEF4</color>
+    <color name="text_secondary">#7A8599</color>
+    <color name="text_muted">#3D4A5C</color>
+    <color name="stroke">#1E2A3A</color>
+    <color name="divider">#1E2A3A</color>
+
+    <!-- Legacy aliases -->
+    <color name="background_start">#0A0E13</color>
+    <color name="background_end">#0A0E13</color>
+    <color name="card_glass">#161C28</color>
+    <color name="card_glass_stroke">#1E2A3A</color>
+    <color name="card_elevated">#1C2333</color>
+    <color name="card_hero">#161C28</color>
+    <color name="card_surface">#161C28</color>
+    <color name="color_chip_bg">#1C2333</color>
+    <color name="color_badge_bg">#1C2333</color>
+    <color name="stroke_inactive">#1E2A3A</color>
+    <color name="text_hint">#3D4A5C</color>
+    <color name="text_hint_deep">#3D4A5C</color>
+</resources>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ══ Brand ══ -->
+    <color name="brand_primary">#00FF88</color>
+    <color name="brand_primary_dim">#3300FF88</color>
+    <color name="brand_primary_light">#E0FAF5</color>
+
+    <!-- ══ Dark theme surfaces ══ -->
+    <color name="surface_dark_1">#0D0D0D</color>
+    <color name="surface_dark_2">#161616</color>
+    <color name="surface_dark_3">#1F1F1F</color>
+    <color name="surface_dark_4">#2A2A2A</color>
+
+    <!-- ══ Light theme surfaces ══ -->
+    <color name="surface_light_1">#F5F5F7</color>
+    <color name="surface_light_2">#FFFFFF</color>
+    <color name="surface_light_3">#F0F0F0</color>
+    <color name="surface_light_4">#E0E0E0</color>
+
+    <!-- ══ Text ══ -->
+    <color name="text_primary_dark">#FFFFFF</color>
+    <color name="text_secondary_dark">#8A8A8A</color>
+    <color name="text_primary_light">#0D0D0D</color>
+    <color name="text_secondary_light">#6B6B6B</color>
+
+    <!-- ══ Status ══ -->
+    <color name="status_active">#00D4AA</color>
+    <color name="status_expired">#FF5252</color>
+    <color name="status_warning">#FFB300</color>
+
+    <!-- ══ Design tokens (light theme) ══ -->
+    <color name="canvas_gray">#F4F6F8</color>
+    <color name="text_neutral_primary">#1A1C1E</color>
+    <color name="text_secondary_muted">#6F777E</color>
+    <color name="divider_stroke">#E8ECF0</color>
+
+    <!-- ══ Legacy — keep for Kotlin compatibility ══ -->
+    <color name="bg_primary">#F8FAFC</color>
+    <color name="bg_surface">#FFFFFF</color>
+    <color name="bg_card">#FFFFFF</color>
+    <color name="bg_elevated">#F1F5F9</color>
+    <color name="accent_teal">#0ED2C8</color>
+    <color name="accent_teal_dark">#0AB5AC</color>
+    <color name="accent_teal_muted">#200ED2C8</color>
+    <color name="accent_purple">#8B5CF6</color>
+    <color name="accent_purple_dark">#7C3AED</color>
+    <color name="accent_purple_muted">#208B5CF6</color>
+    <color name="accent_red">#EF4444</color>
+    <color name="accent_red_dark">#DC2626</color>
+    <color name="accent_red_muted">#20EF4444</color>
+    <color name="accent_green">#10B981</color>
+    <color name="accent_green_dark">#059669</color>
+    <color name="accent_green_muted">#2010B981</color>
+    <color name="accent_pink">#EC4899</color>
+    <color name="accent_pink_dark">#DB2777</color>
+    <color name="accent_pink_muted">#20EC4899</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#475569</color>
+    <color name="text_muted">#94A3B8</color>
+    <color name="stroke">#E2E8F0</color>
+    <color name="success">#10B981</color>
+    <color name="warning">#F59E0B</color>
+    <color name="error_color">#EF4444</color>
+
+    <!-- Legacy aliases -->
+    <color name="background_start">#F8FAFC</color>
+    <color name="background_end">#F8FAFC</color>
+    <color name="card_glass">#F1F5F9</color>
+    <color name="card_glass_stroke">#E2E8F0</color>
+    <color name="card_elevated">#FFFFFF</color>
+    <color name="card_hero">#FFFFFF</color>
+    <color name="card_surface">#FFFFFF</color>
+    <color name="color_chip_bg">#F1F5F9</color>
+    <color name="color_chip_stroke">#0ED2C8</color>
+    <color name="color_badge_bg">#F1F5F9</color>
+    <color name="stroke_inactive">#CBD5E1</color>
+    <color name="divider">#E2E8F0</color>
+    <color name="text_hint">#94A3B8</color>
+    <color name="text_hint_deep">#64748B</color>
+    <color name="active_green">#10B981</color>
+    <color name="error_red">#EF4444</color>
+    <color name="expiry_orange">#F59E0B</color>
+    <color name="gold_coin">#F59E0B</color>
+
+    <!-- Avatar palette -->
+    <color name="avatar_0">#1E7B72</color>
+    <color name="avatar_1">#1E5F7B</color>
+    <color name="avatar_2">#1E3D7B</color>
+    <color name="avatar_3">#4A1E7B</color>
+    <color name="avatar_4">#7B1E5F</color>
+    <color name="avatar_5">#7B3D1E</color>
+    <color name="avatar_6">#1E7B3D</color>
+    <color name="avatar_7">#1E4A7B</color>
+
+    <!-- System -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#0ED2C8</color>
+    <color name="purple_500">#0ED2C8</color>
+    <color name="purple_700">#0AB5AC</color>
+    <color name="teal_200">#0ED2C8</color>
+    <color name="teal_700">#0AB5AC</color>
+</resources>

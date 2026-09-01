@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base style required for TempBox.* child styles -->
+    <style name="TempBox" parent="" />
+
+    <style name="TempBox.AddressLabel">
+        <item name="android:textSize">10sp</item>
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="android:letterSpacing">0.12</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:fontFamily">@font/inter</item>
+    </style>
+
+    <style name="TempBox.HeroEmail">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:fontFamily">@font/inter</item>
+    </style>
+
+    <style name="TempBox.SectionHeader">
+        <item name="android:textSize">11sp</item>
+        <item name="android:textColor">?attr/colorOnSurfaceVariant</item>
+        <item name="android:letterSpacing">0.12</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:fontFamily">@font/inter</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_marginTop">20dp</item>
+    </style>
+
+    <style name="TempBox.DetailSubject">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:fontFamily">@font/inter</item>
+        <item name="android:lineSpacingMultiplier">1.3</item>
+    </style>
+
+    <style name="TempBox.Body">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:lineSpacingMultiplier">1.6</item>
+    </style>
+
+    <style name="TempBox.OtpBadgeText">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#00FF88</item>
+        <item name="android:fontFamily">monospace</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

@@ -1,0 +1,51 @@
+# Built application files
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local configuration
+local.properties
+keystore.properties
+
+# Signing keys
+*.jks
+*.keystore
+*.pem
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/deploymentTargetDropDown.xml
+.idea/gradle.xml
+.idea/misc.xml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Release output
+release/
+
+# Kotlin
+.kotlin/
+
+# Log files
+*.log
+
+# Editor tooling (local only)
+.cursor/

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Temporary email</string>
+
+    <!-- D1: Accessibility -->
+    <string name="inbox_slot_1">Inbox slot 1</string>
+
+    <!-- Module 2: OTP -->
+    <string name="otp_notification_title">Verification Code Detected</string>
+    <string name="otp_notification_text">Your verification code is: %1$s</string>
+    <string name="otp_copy_action">Copy Code</string>
+
+    <!-- Module 1: Autofill -->
+    <string name="autofill_presentation_text">Fill with %1$s</string>
+    <string name="autofill_icon_desc">Temporary email autofill icon</string>
+    <string name="autofill_suggestion_text">Fill Temporary Email</string>
+
+    <!-- F2: OTP badge format -->
+    <string name="otp_badge_format">OTP: %1$s</string>
+
+    <!-- F3: Countdown accessibility -->
+    <string name="countdown_progress_desc">Checking for mail</string>
+    <string name="progress_refreshing">Refreshing…</string>
+
+    <!-- Accessibility -->
+    <string name="email_body_content_desc">Email message body</string>
+
+    <!-- Onboarding -->
+    <string name="skip_onboarding">Skip</string>
+
+    <!-- G1: Clipboard copy confirmations -->
+    <string name="copy_address_confirmation">Email address copied</string>
+    <string name="copy_code_confirmation">Verification code copied</string>
+
+    <!-- H1: Rate-limit message -->
+    <string name="rate_limit_message">Rate limited: Trying again in %1$d seconds</string>
+
+    <!-- H2: Dynamic Feature Module -->
+    <string name="title_feature_viewer">Email Viewer</string>
+
+    <!-- Contextual tip messages -->
+    <string name="tip_you_have_emails">You have %1$d email(s) in your inbox.</string>
+    <string name="tip_expiry_soon">Your address expires soon. Generate a new one.</string>
+    <string name="tip_default">Share for sign-ups, trials &amp; OTPs — your real inbox stays clean.</string>
+
+    <!-- I1: Main dashboard -->
+    <string name="app_title">Temporary email</string>
+    <string name="label_temporary_address">TEMPORARY ADDRESS</string>
+    <string name="label_active">Active</string>
+    <string name="label_inbox">Inbox</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_share">Share</string>
+    <string name="action_new">New</string>
+    <string name="address_generating">Generating…</string>
+    <string name="empty_inbox_body">Emails sent to your address will appear here.</string>
+    <string name="empty_inbox_body_short">Emails sent to your address appear here</string>
+
+    <!-- I3: Settings -->
+    <string name="title_settings">Settings</string>
+    <string name="section_your_address">YOUR ADDRESS</string>
+    <string name="label_current_address">Current address</string>
+    <string name="action_copy_address">Copy Address</string>
+    <string name="section_inbox">INBOX</string>
+    <string name="label_auto_refresh_interval">Auto-refresh interval</string>
+    <string name="interval_10s">10s</string>
+    <string name="interval_15s">15s</string>
+    <string name="interval_30s">30s</string>
+    <string name="interval_60s">60s</string>
+    <string name="label_enable_auto_refresh">Enable auto-refresh</string>
+    <string name="section_data">DATA</string>
+    <string name="action_clear_cache">Clear Inbox Cache</string>
+    <string name="action_reset_data">Reset App Data</string>
+    <string name="section_about">ABOUT</string>
+    <string name="app_description">Temporary email — private disposable inbox</string>
+    <string name="notification_channel_email_desc">Notifies you when a new email arrives in your Temporary email inbox</string>
+    <string name="version_label">%1$s %2$s — BETA</string>
+
+    <!-- C4: Onboarding placeholder address -->
+    <string name="onboarding_placeholder_address">yourname@tempmail.app</string>
+</resources>
